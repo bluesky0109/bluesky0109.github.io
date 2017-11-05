@@ -5,3 +5,5 @@ tags: Life
 ---
 
 ### programming makes me happy, rediscover myself, and gives me a new lease of life. Every day for tomorrow, keep move on💪
+
+<!-- more -->
