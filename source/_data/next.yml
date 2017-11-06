@@ -443,7 +443,7 @@ han: false
 # Disqus
 disqus:
   enable: true,
-  shortname: yongfeng_zhang,
+  shortname: yonfeng,
   count: true
 
 # Hypercomments
