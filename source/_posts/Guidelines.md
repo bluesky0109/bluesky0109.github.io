@@ -33,7 +33,7 @@ commit message编写随意，提交内容和主题差异大（甚至commit massa
 1. 每种语言 都会有一些 行业标准或最佳实践之类的，优先选择 大家都认可的规范标准
 2. 不要带有个人习惯倾向 来设定编码规范，当遇到个人习惯和行业规范相冲突时应该反思下自己的编码习惯是否不太合适，调整自己改掉自己的不良习惯来去适应标准规范，而不是让标准来迁就自己的个人习惯
 
-这里针对Objctive-C语言 推荐一份个人翻译的基于raywenderlich.com的[iOS-Style-Guide](../../../../images/iOS-Style-Guide.pdf)。   
+这里针对Objctive-C语言 推荐一份个人翻译的基于raywenderlich.com的[iOS-Style-Guide](/images/iOS-Style-Guide.pdf)。   
 针对iOS的Objective-C项目选择基于 clang-format的 spacecommand来做代码规范校验及自动化格式代码, 主要优点：   
 
 * 使用方法极其简单  
@@ -147,5 +147,5 @@ just do it, 实操才能真正掌握, 工具和操作方法都给了，至于用
 下篇预告：
 给你一个高性能、高可定制化的 扫码组件（极速启动、什么二维码、条形码、各种常规码都不在话下，什么微信扫码界面、支付宝扫码界面、自动感应环境亮度均可定制，还可以按照自己的需求DIY，你的扫码组件你做主）  
 
-提前体验 请查看[YFCodeScan](https://github.com/bluesky0109/YFCodeScan)（<mark>功能均已完成，文档和示例demo带补充</mark>），敬请关注本博客.
+提前体验 请查看[YFCodeScan](https://github.com/bluesky0109/YFCodeScan)（<mark>功能均已完成，文档和示例demo待补充</mark>），敬请关注本博客.
 
