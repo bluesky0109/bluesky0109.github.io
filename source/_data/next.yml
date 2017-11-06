@@ -502,9 +502,10 @@ gitment:
 # This plugin is more useful in China, make sure you known how to use it.
 # And you can find the use guide at official webiste: http://www.jiathis.com/.
 # Warning: JiaThis does not support https.
-#jiathis:
-  ##uid: Get this uid from http://www.jiathis.com/
-#add_this_id:
+jiathis:
+  enable: true
+  uid: 2148223
+add_this_id: 2148223
 
 # Share
 #duoshuo_share: true
@@ -742,7 +743,7 @@ motion:
 fancybox: true
 
 # Progress bar in the top during page loading.
-pace: false
+pace: true
 # Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
